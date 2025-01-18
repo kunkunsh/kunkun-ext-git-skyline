@@ -3,7 +3,7 @@
 	"name": "kunkun-ext-git-skyline",
 	"repository": "https://github.com/kunkunsh/kunkun-ext-git-skyline",
 	"private": false,
-	"version": "0.0.8",
+	"version": "0.0.9",
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
