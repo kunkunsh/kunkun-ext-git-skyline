@@ -3,7 +3,7 @@
   "name": "kunkun-ext-git-skyline",
   "license": "MIT",
   "repository": "https://github.com/kunkunsh/kunkun-ext-git-skyline",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,7 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@kksh/api": "^0.0.48",
+    "@kksh/api": "^0.0.52",
     "@kksh/vue": "0.1.4",
     "@radix-icons/vue": "^1.0.0",
     "class-variance-authority": "^0.7.0",
@@ -41,7 +41,7 @@
       "type": "iconify",
       "value": "tabler:building-skyscraper"
     },
-    "demoImages": [],
+    "demoImages": ["https://i.imgur.com/itYe0pQ.png"],
     "permissions": [
       "clipboard:read-all"
     ],

@@ -3,4 +3,4 @@
 - NPM Package: https://www.npmjs.com/package/kunkun-ext-git-skyline
 - Store: https://kunkun.sh/store/git-skyline
 
-![](./demo/transparent.png)
+![](https://i.imgur.com/itYe0pQ.png)
