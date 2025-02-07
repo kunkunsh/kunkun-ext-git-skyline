@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { clipboard, toast, ui } from "@kksh/api/ui/iframe";
+import { clipboard, toast, ui } from "@kksh/api/ui/custom";
 import { updateTheme } from "@kksh/vue";
 import { computed, onMounted, ref, watch } from "vue";
 import ContextMenu from "./components/context-menu.vue";

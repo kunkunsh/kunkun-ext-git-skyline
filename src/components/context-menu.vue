@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { cn } from "@/lib/utils"
-import { ui } from "@kksh/api/ui/iframe"
+import { ui } from "@kksh/api/ui/custom"
 import {
 	ContextMenu,
 	ContextMenuContent,

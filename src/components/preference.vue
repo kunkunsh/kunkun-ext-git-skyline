@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { setPreferences } from "@/lib/db"
-import { db, notification, toast, ui } from "@kksh/api/ui/iframe"
+import { db, notification, toast, ui } from "@kksh/api/ui/custom"
 import { AutoForm, AutoFormField } from "@kksh/vue/auto-form"
 import { Button } from "@kksh/vue/button"
 import { onMounted } from "vue"

@@ -1,5 +1,5 @@
 import { ExtData, SearchMode } from "@kksh/api/models"
-import { db, log, toast } from "@kksh/api/ui/iframe"
+import { db, log, toast } from "@kksh/api/ui/custom"
 import { Preferences, PreferencesSchema } from "./model"
 
 export async function getPreferencesRawData(): Promise<ExtData | null> {
