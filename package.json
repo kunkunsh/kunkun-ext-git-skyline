@@ -3,7 +3,7 @@
   "name": "kunkun-ext-git-skyline",
   "license": "MIT",
   "repository": "https://github.com/kunkunsh/kunkun-ext-git-skyline",
-  "version": "0.0.12",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,7 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@kksh/api": "^0.1.1",
+    "@kksh/api": "^0.1.7",
     "@kksh/vue": "0.1.4",
     "@radix-icons/vue": "^1.0.0",
     "class-variance-authority": "^0.7.0",
